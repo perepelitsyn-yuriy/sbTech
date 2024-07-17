@@ -6,10 +6,12 @@ package org.example;
  */
 public class App 
 {
+    void f(){}
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
         //five commit
 
     }
+
 }
