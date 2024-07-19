@@ -7,4 +7,5 @@ public class Test4 {
     //comment from Idea
     //comment 2 from Idea not Collaborator
     //commit in Fork
+    //commit in Idea
 }
